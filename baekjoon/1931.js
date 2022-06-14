@@ -1,5 +1,5 @@
 let table = require("fs").readFileSync("test.txt").toString().split("\n");
-table.shift();
+let n=table.shift()*1;
 
 table = table.map((v) => (v = v.trim().split(" ").map(Number)));
 // 회의가 끝나는 시간을 기준으로 정렬
