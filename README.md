@@ -5,7 +5,7 @@
 - baekjoon : BOJ solutions
 - structure : Data structure study file.
 - test.txt : algorithm test case file.
+- .prettierignore : for short-coding.
 
-I use prettierignore for short-coding sometimes.
-
+### BOJ TIRE
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jangluna)](https://solved.ac/jangluna)
