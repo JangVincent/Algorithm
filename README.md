@@ -1,4 +1,3 @@
-# JangLuna/algorithm
 ## My online-judge solutions
 
 ### Directory information
