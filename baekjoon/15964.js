@@ -1,0 +1,1 @@
+[a,b]=(require('fs').readFileSync(0)+"").split(" ");console.log(a**2-b**2)
