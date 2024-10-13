@@ -1,5 +1,5 @@
 # Algorithm
-### [JangLuna](https://github.com/JangLuna)'s online-judge solutions
+### [Vincent Jang](https://github.com/Vincent Jang)'s online-judge solutions
 
 ### Directory information
 - baekjoon : BOJ solutions
